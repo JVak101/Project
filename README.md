@@ -2,4 +2,5 @@
 This is my first GitHub repository!
 
 Lets hope that typing this also works
-Yo
+
+This is a test from Laptop VS Code
